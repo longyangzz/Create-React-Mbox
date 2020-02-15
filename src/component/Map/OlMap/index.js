@@ -21,7 +21,7 @@ import axios from 'axios'
 import * as dat from 'dat.gui';
 import moment from 'moment'
 //! 风场
-import OlWindy from 'wind-layer/dist/OlWindy.esm.js'
+import OlWindy from '../../olwindy'
 @withRouter
 @inject("OlMapStore", "OlMapAction")
 @observer

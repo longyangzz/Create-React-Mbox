@@ -7027,7 +7027,7 @@ module@^1.2.5:
     vinyl-fs "2.4.3"
     yargs "4.6.0"
 
-moment@2.x, moment@^2.20.1, moment@^2.24.0:
+moment@2.x, moment@^2.24.0:
   version "2.24.0"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
   integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
@@ -11557,14 +11557,6 @@ wide-align@^1.1.0:
   integrity sha512-QGkOQc8XL6Bt5PwnsExKBPuMKBxnGxWWW3fU55Xt4feHozMUhdUMaBCk290qpm/wG5u/RSKzwdAC4i51YigihA==
   dependencies:
     string-width "^1.0.2 || 2"
-
-wind-layer@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/wind-layer/-/wind-layer-0.1.1.tgz#e4a3f98219a252c244a447765689ad149c95d65a"
-  integrity sha512-fze+F+jHMIVSxV/QliewRvhezmaZCs2VJvg54+yYPcx9ux/4yZb/9UaszMKrQKFWKU7de8Vaf5/e72FBJW9JFQ==
-  dependencies:
-    lodash "^4.17.4"
-    moment "^2.20.1"
 
 window-size@^0.2.0:
   version "0.2.0"
