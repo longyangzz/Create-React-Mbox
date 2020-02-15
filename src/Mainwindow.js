@@ -9,7 +9,6 @@ import { OlMap } from "./component/Map/OlMap"
  */
 class Mainwindow extends React.Component {
     render () {
-        debugger
         return (
             <div>
                 <Router>

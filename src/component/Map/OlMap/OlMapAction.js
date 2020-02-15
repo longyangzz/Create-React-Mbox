@@ -5,7 +5,6 @@ import OlMapStore from "./OlMapStore"
 
 class OlMapAction {
     constructor(store) {
-        debugger
         this.store = store
         this.ShowHideSwitch();
 
@@ -13,7 +12,6 @@ class OlMapAction {
 
     @action
     ShowHideSwitch(){
-        debugger
         this.store.isShow = !this.store.isShow;
     }
 }

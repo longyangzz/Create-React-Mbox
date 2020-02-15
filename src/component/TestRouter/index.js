@@ -11,12 +11,10 @@ import OlMapAction from "../Map/OlMap/OlMapAction"
 class Dashboard extends React.Component {
 
     click(){
-        debugger
         OlMapAction.ShowHideSwitch();
     }
 
     render() {
-        debugger
         return (
             <div>
                 {/*//！左侧区域*/}
@@ -34,7 +32,6 @@ class Dashboard extends React.Component {
 
 class Menu extends React.Component {
     render() {
-        debugger
         return (
             <div>
                 {/*//！左侧区域*/}
